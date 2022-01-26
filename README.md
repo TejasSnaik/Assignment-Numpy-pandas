@@ -9,9 +9,12 @@ OBJECTID: UniqueID for every park
 UNIT_NAME: Name of every state park 
 
 DESCRIPTION: The park Area to which it belongs
+
 Categories included:
- State Park, Interpretive Center, State Recreation Area,
- State Natural Area, State Nature Preserve
+
+  State Park, Interpretive Center, State Recreation Area,
+ 
+  State Natural Area, State Nature Preserve
 
 ACRES: Amount of Land utilized
 
